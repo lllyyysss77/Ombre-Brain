@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ombre Brain"
+  short_description: "Repo-specific patterns and workflows for Ombre-Brain"
+  default_prompt: "Use the Ombre-Brain repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
